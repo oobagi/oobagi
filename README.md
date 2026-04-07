@@ -2,7 +2,7 @@
 
 I build things that are fun to use, and obsess over the details nobody will notice. I'm a senior computer science student at Chico State working towards my bachelor's degree. I love learning new things (and blabbering about them to everyone I know), whether that's a new technology or a new hobby.
 
-When I'm not writing code, you can find me skating, snowboarding, or playing guitar. I also spend way too much time tinkering with my OpenClaw bot and messing with Home Assistant.
+When I'm not writing code, you can find me skating (or snowboarding depending on the season) playing guitar, or tinkering with my OpenClaw bot.
 
 ## Tech Stack
 
