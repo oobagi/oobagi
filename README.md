@@ -1,8 +1,8 @@
 # Hey, I'm Jaden
 
-CS senior at CSU Chico. I like building things — apps, CLI tools, whatever catches my attention.
+I build things that are fun to use, and obsess over the details nobody will notice. I'm a senior computer science student at Chico State working towards my bachelor's degree. I love learning new things and blabbering about them to everyone I know, whether that's a new technology or a new hobby.
 
-Outside of code, I skate, snowboard, play guitar, and tinker with servers.
+When I'm not writing code, you can find me skating, snowboarding, or playing guitar. I also spend way too much time tinkering with my OpenClaw bot and messing with Home Assistant.
 
 ## Tech Stack
 
